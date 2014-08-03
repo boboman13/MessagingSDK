@@ -1,0 +1,4 @@
+name: MessagingSDK
+version: 0.0.1
+main: net.boboman13.messagingsdk.MessagingSDK
+depend: [LilyPad-Connect]
