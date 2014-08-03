@@ -6,8 +6,9 @@ MessagingSDK
 ### Example Usage
 ```java
 import net.boboman13.messagingsdk.MessagingSDK;
+...
 
-public class MyPlugin extends BukkitPlugin {
+public class MyPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
